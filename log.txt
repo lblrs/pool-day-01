@@ -1,0 +1,190 @@
+commit 75dcc9d962658ddeeafe72ce8828eb18d11b893c
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:37:46 2025 +0100
+
+    Ex_05
+
+commit 9d713a2e0f0879d13a329d300668deb593651cd1
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:26:30 2025 +0100
+
+    aster
+
+commit 2ce936f49c16609c9b8322fd23fb899b0af8ffb3
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:24:16 2025 +0100
+
+    aster
+
+commit 69f6ac52f52dbb45f04657c51b34f120f6d9fc39
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:24:08 2025 +0100
+
+    aster
+
+commit ae08955b1417bbf0d588161ce0db637676cd7d85
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:23:48 2025 +0100
+
+    aster
+
+commit 3f7b2f85a45c9108d2f5eeae9906d6ddf6ee0f3a
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:23:12 2025 +0100
+
+    aster
+
+commit 030047a0bfa402f95829746c682450f2ce54675c
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:22:16 2025 +0100
+
+    aster
+
+commit eb16b2906e29a63f884675c2044d03a634d246d0
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:16:52 2025 +0100
+
+    aster
+
+commit 1b9b3e4ec9b3eb47072e7440f9bed5d82ca88edf
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:13:41 2025 +0100
+
+    aster
+
+commit 6124a4090e94236723543008b4e1d5390c2b3d33
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:13:31 2025 +0100
+
+    aster
+
+commit 45b8161a9a6b0d15651ca35d1d8d00c440616ed4
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:13:30 2025 +0100
+
+    aster
+
+commit 6f0229e5c9168603eb9c69b2fa239320d1551357
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:12:49 2025 +0100
+
+    aster
+
+commit 51348fa20474910d5417267d6968ecadb7d86629
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:10:01 2025 +0100
+
+    aster
+
+commit 59529bd3e4cb6aeb00f3313264eb40e98394d393
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:09:36 2025 +0100
+
+    aster
+
+commit a643c2e0777a64010c233f3fd13b2d3b16b3cded
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:05:33 2025 +0100
+
+    aster
+
+commit b9788ee2dfe733a134e4e491ec9710f06deb406f
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:05:00 2025 +0100
+
+    aster
+commit 75dcc9d962658ddeeafe72ce8828eb18d11b893c
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:37:46 2025 +0100
+
+    Ex_05
+
+commit 9d713a2e0f0879d13a329d300668deb593651cd1
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:26:30 2025 +0100
+
+    aster
+
+commit 2ce936f49c16609c9b8322fd23fb899b0af8ffb3
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:24:16 2025 +0100
+
+    aster
+
+commit 69f6ac52f52dbb45f04657c51b34f120f6d9fc39
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:24:08 2025 +0100
+
+    aster
+
+commit ae08955b1417bbf0d588161ce0db637676cd7d85
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:23:48 2025 +0100
+
+    aster
+
+commit 3f7b2f85a45c9108d2f5eeae9906d6ddf6ee0f3a
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:23:12 2025 +0100
+
+    aster
+
+commit 030047a0bfa402f95829746c682450f2ce54675c
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:22:16 2025 +0100
+
+    aster
+
+commit eb16b2906e29a63f884675c2044d03a634d246d0
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:16:52 2025 +0100
+
+    aster
+
+commit 1b9b3e4ec9b3eb47072e7440f9bed5d82ca88edf
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:13:41 2025 +0100
+
+    aster
+
+commit 6124a4090e94236723543008b4e1d5390c2b3d33
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:13:31 2025 +0100
+
+    aster
+
+commit 45b8161a9a6b0d15651ca35d1d8d00c440616ed4
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:13:30 2025 +0100
+
+    aster
+
+commit 6f0229e5c9168603eb9c69b2fa239320d1551357
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:12:49 2025 +0100
+
+    aster
+
+commit 51348fa20474910d5417267d6968ecadb7d86629
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:10:01 2025 +0100
+
+    aster
+
+commit 59529bd3e4cb6aeb00f3313264eb40e98394d393
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:09:36 2025 +0100
+
+    aster
+
+commit a643c2e0777a64010c233f3fd13b2d3b16b3cded
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:05:33 2025 +0100
+
+    aster
+
+commit b9788ee2dfe733a134e4e491ec9710f06deb406f
+Author: Dawid Wieclaw <dawid.wieclaw@epitech.eu>
+Date:   Mon Nov 17 19:05:00 2025 +0100
+
+    aster
